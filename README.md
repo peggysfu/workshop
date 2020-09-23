@@ -17,3 +17,5 @@ A shared repository for a tutorial
 1. Merge your pull request.
 
 1. Update your fork of the repository.
+
+This is a fun workshop.
