@@ -18,4 +18,4 @@ A shared repository for a tutorial
 
 1. Update your fork of the repository.
 
-This is a fun workshop.
+This is a really fun workshop.
